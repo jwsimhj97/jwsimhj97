@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:dafbe1,100:89b1ed&height=200&text=Hi%20there%20👋)
 
 
-### I want to become a software developer.
 
 <!--
 **jwsimhj97/jwsimhj97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
